@@ -1,0 +1,24 @@
+{
+  "name": "pdd_bot",
+  "version": "1.0.0",
+  "description": "Bot for managing mailboxes on Yandex.PDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "pdd",
+    "yandex",
+    "api"
+  ],
+  "author": "\"Sergey Kruk\" <sergey.kruk@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-telegram-bot-api": "^0.23.3",
+    "request": "^2.74.0"
+  }
+}
