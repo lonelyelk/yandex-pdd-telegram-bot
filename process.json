@@ -1,6 +1,6 @@
 {
 	"apps": [{
-		"name": "neq4pdd",
+		"name": "pdd",
 		"script": "./index.js",
 		"watch": true,
 		"env": {
