@@ -6,6 +6,8 @@
 		domainMail: 'example.ru',
 		botToken: '123456',
 		permitUsers: [], // telegram user id
-		port: 3000
+		port: 3000,
+		url: '/path/to/bot/api',
+		host: 'https://webhook.com'
 	};
 })();
